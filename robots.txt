@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: http://192.168.168.101:1313/sitemap.xml
+Sitemap: https://j0ven.github.io/sitemap.xml
