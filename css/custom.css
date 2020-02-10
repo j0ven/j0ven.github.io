@@ -1,0 +1,41 @@
+body {
+  border-top: 3px solid red;
+  /* border-bottom: 1px solid red; */
+}
+
+.post {
+  padding: 3em 2.5em;
+  margin: 0 5em 3em;
+}
+
+.post .post-header {
+  margin-bottom: 20px;
+  text-align: center;
+  padding-bottom: 10px;
+  border-bottom: 2px #c05b4d solid;
+}
+
+.post .post-content code {
+  padding: 3px 7px;
+  background:none!important; 
+  border-radius: 4px;
+  color: #c7254e;
+}
+
+
+.mobile-navbar {
+  border-top: 3px solid red !important;
+  /* border-bottom: 1px solid red !important; */
+}
+
+div.logo-wrapper {
+  background: red;
+  margin-left: 90px;
+  padding: 0px 10px 0 10px;
+}
+
+.header .logo-wrapper .logo {
+  color: white;
+  font-size: 36px;
+  font-family: cursive, LiSu, sans-serif
+}
