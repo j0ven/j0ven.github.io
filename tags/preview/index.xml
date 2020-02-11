@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>preview on 心闻 —— 个人博客</title>
+    <title>preview on 阿闻 —— 个人博客</title>
     <link>https://j0ven.github.io/tags/preview/</link>
-    <description>Recent content in preview on 心闻 —— 个人博客</description>
+    <description>Recent content in preview on 阿闻 —— 个人博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <lastBuildDate>Mon, 04 Mar 2019 16:01:23 +0800</lastBuildDate>
@@ -12,21 +12,21 @@
     
     
     <item>
-      <title>Jane 主题预览</title>
-      <link>https://j0ven.github.io/post/jane-theme-preview/</link>
-      <pubDate>Tue, 06 Mar 2018 16:01:23 +0800</pubDate>
-      
-      <guid>https://j0ven.github.io/post/jane-theme-preview/</guid>
-      <description>主题预览,内容有待填充。</description>
-    </item>
-    
-    <item>
       <title>Math Preview</title>
       <link>https://j0ven.github.io/post/math-preview/</link>
       <pubDate>Mon, 04 Mar 2019 16:01:23 +0800</pubDate>
       
       <guid>https://j0ven.github.io/post/math-preview/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://www.intmath.com/cg5/katex-mathjax-comparison.php&#34;&gt;KaTeX and MathJax Comparison Demo, currently processed as KaTex&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Jane 主题预览</title>
+      <link>https://j0ven.github.io/post/jane-theme-preview/</link>
+      <pubDate>Tue, 06 Mar 2018 16:01:23 +0800</pubDate>
+      
+      <guid>https://j0ven.github.io/post/jane-theme-preview/</guid>
+      <description>主题预览,内容有待填充。</description>
     </item>
     
     <item>
@@ -63,13 +63,7 @@
       <pubDate>Sat, 03 Mar 2018 16:01:23 +0800</pubDate>
       
       <guid>https://j0ven.github.io/post/shortcode-notice/</guid>
-      <description>normal use Note example:
-{{% notice note %}}A notice disclaimer{{% /notice %}}Result:
- note A notice disclaimer
-You could custom title :
-{{% notice note 笔记 %}}A notice disclaimer{{% /notice %}} 笔记 A notice disclaimer
-tip {{% notice tip %}}A tip disclaimer{{% /tip %}} tip A tip disclaimer
-info {{% notice info %}}A info disclaimer{{% /notice %}} info An information disclaimer</description>
+      <description>normal use Note example: {{% notice note %}} A notice disclaimer {{% /notice %}} Result: note A notice disclaimer You could custom title : {{% notice note 笔记 %}} A notice disclaimer {{% /notice %}} 笔记 A notice disclaimer tip {{% notice tip %}} A tip disclaimer {{% /tip %}} tip A tip disclaimer info {{% notice info %}} A info disclaimer {{% /notice %}} info An information</description>
     </item>
     
     <item>

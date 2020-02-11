@@ -1,27 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>心闻 —— 个人博客</title>
+    <title>阿闻 —— 个人博客</title>
     <link>https://j0ven.github.io/</link>
-    <description>Recent content on 心闻 —— 个人博客</description>
+    <description>Recent content on 阿闻 —— 个人博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 10 Feb 2020 20:20:52 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 10 Feb 2020 22:09:03 +0800</lastBuildDate>
     
         <atom:link href="https://j0ven.github.io/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Jane 主题预览</title>
-      <link>https://j0ven.github.io/post/jane-theme-preview/</link>
-      <pubDate>Tue, 06 Mar 2018 16:01:23 +0800</pubDate>
-      
-      <guid>https://j0ven.github.io/post/jane-theme-preview/</guid>
-      
-        <description>&lt;p&gt;主题预览,内容有待填充。&lt;/p&gt;
-</description>
-      
-    </item>
     
     <item>
       <title>关于</title>
@@ -33,21 +21,316 @@
         <description>&lt;p&gt;我是一个计算机爱好者,以前在化工厂工作,后来工厂倒闭,转行进入计算机行业,
 做一些网站维护工作,现在公司做web前端开发. 也喜欢学习后端服务器技术.
 目前准备学习go语言.&lt;/p&gt;
-&lt;p&gt;关注的软件技术: redis nginx rabbitMQ  go tomcat&lt;/p&gt;
-&lt;p&gt;前端语言:JavaScript&lt;/p&gt;
-&lt;p&gt;常用的后端语言: .net&lt;/p&gt;
+&lt;p&gt;关注的软件技术: redis nginx rabbitMQ  go tomcat 等&amp;hellip;&lt;/p&gt;
+&lt;p&gt;前端语言:JavaScript HTML CSS&lt;/p&gt;
+&lt;p&gt;常用的后端语言: C#&lt;/p&gt;
+&lt;p&gt;爱好阅读,如果您阅读好的书籍,经典书籍,请推荐,谢谢!&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;mailto:zhouwen1001@foxmail.com&#34;&gt;mailto:zhouwen1001@foxmail.com&lt;/a&gt;&lt;/p&gt;
 </description>
       
     </item>
     
     <item>
-      <title>Welcome</title>
-      <link>https://j0ven.github.io/welcome/</link>
-      <pubDate>Sun, 09 Feb 2020 18:32:59 +0800</pubDate>
+      <title>Markdown 使用</title>
+      <link>https://j0ven.github.io/post/start-markdown/</link>
+      <pubDate>Mon, 10 Feb 2020 22:09:03 +0800</pubDate>
       
-      <guid>https://j0ven.github.io/welcome/</guid>
+      <guid>https://j0ven.github.io/post/start-markdown/</guid>
       
-        <description>&lt;p&gt;这是使用Hugo创建的站点中的第一篇文章。&lt;/p&gt;
+        <description>&lt;h1 id=&#34;欢迎点开-markdown-简明学习记录&#34;&gt;欢迎点开 Markdown 简明学习记录&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;Markdown是一种轻量级的「标记语言」&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.mdeditor.com/images/logos/markdown.png&#34; alt=&#34;markdown&#34; title=&#34;markdown&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Markdown 的目标是实现「易读易写」。&lt;/p&gt;
+&lt;p&gt;可读性，无论如何，都是最重要的。一份使用 Markdown 格式撰写的文件应该可以直接以纯文本发布，并且看起来不会像是由许多标签或是格式指令所构成。Markdown 语法受到一些既有 text-to-HTML 格式的影响，包括 Setext、atx、Textile、reStructuredText、Grutatext 和 EtText，而最大灵感来源其实是纯文本电子邮件的格式。&lt;/p&gt;
+&lt;p&gt;总之， Markdown 的语法全由一些符号所组成，这些符号经过精挑细选，其作用一目了然。比如：在文字两旁加上星号，看起来就像&lt;em&gt;强调&lt;/em&gt;。Markdown 的列表看起来，嗯，就是列表。Markdown 的区块引用看起来就真的像是引用一段文字，就像你曾在电子邮件中见过的那样。&lt;/p&gt;
+&lt;p&gt;Markdown是一种可以使用普通文本编辑器编写的标记语言，通过简单的标记语法，它可以使普通文本内容具有一定的格式。它允许人们使用易读易写的纯文本格式编写文档，然后转换成格式丰富的HTML页面，Markdown文件的后缀名便是“.md”
+&lt;a href=&#34;https://www.appinn.com/markdown/index.html&#34;&gt;Markdown 语法说明 (简体中文版)&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;标题&#34;&gt;标题&lt;/h2&gt;
+&lt;pre&gt;&lt;code&gt;# 标题H1
+## 标题H2
+### 标题H3
+#### 标题H4
+##### 标题H5
+&lt;/code&gt;&lt;/pre&gt;&lt;h1 id=&#34;标题h1&#34;&gt;标题H1&lt;/h1&gt;
+&lt;h2 id=&#34;标题h2&#34;&gt;标题H2&lt;/h2&gt;
+&lt;h3 id=&#34;标题h3&#34;&gt;标题H3&lt;/h3&gt;
+&lt;h4 id=&#34;标题h4&#34;&gt;标题H4&lt;/h4&gt;
+&lt;h5 id=&#34;标题h5&#34;&gt;标题H5&lt;/h5&gt;
+&lt;h3 id=&#34;字符效果和横线等&#34;&gt;字符效果和横线等&lt;/h3&gt;
+&lt;hr&gt;
+&lt;p&gt;Markdown 使用星号（*）和底线（_）作为标记强调字词的符号，被 * 或 _ 包围的字词会被转成用 &lt;!-- raw HTML omitted --&gt; 标签包围，用两个 * 或 _ 包起来的话，则会被转成 &lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;~~删除线~~ &amp;lt;s&amp;gt;删除线（开启识别HTML标签时）&amp;lt;/s&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;del&gt;删除线&lt;/del&gt; &lt;!-- raw HTML omitted --&gt;删除线（开启识别HTML标签时）&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;*斜体字*      _斜体字_
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;em&gt;斜体字&lt;/em&gt;      &lt;em&gt;斜体字&lt;/em&gt;&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;**粗体**  __粗体__
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;strong&gt;粗体&lt;/strong&gt;  &lt;strong&gt;粗体&lt;/strong&gt;&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;***粗斜体*** ___粗斜体___
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;粗斜体&lt;/strong&gt;&lt;/em&gt; &lt;em&gt;&lt;strong&gt;粗斜体&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;h3 id=&#34;引用-blockquotes&#34;&gt;引用 Blockquotes&lt;/h3&gt;
+&lt;pre&gt;&lt;code&gt;&amp;gt; 引用文本 Blockquotes
+&lt;/code&gt;&lt;/pre&gt;
+&lt;blockquote&gt;
+&lt;p&gt;引用文本 Blockquotes&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;引用的行内混合 Blockquotes&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;`即&amp;lt;br /&amp;gt;标签`
+&lt;/code&gt;&lt;/pre&gt;
+&lt;blockquote&gt;
+&lt;p&gt;引用：如果想要插入空白换行&lt;code&gt;即&amp;lt;br /&amp;gt;标签&lt;/code&gt;，在插入处先键入两个以上的空格然后回车即可，&lt;a href=&#34;https://www.baidu.com/&#34;&gt;普通链接&lt;/a&gt;。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;分隔线&#34;&gt;分隔线&lt;/h3&gt;
+&lt;p&gt;你可以在一行中用三个以上的星号、减号、底线来建立一个分隔线，行内不能有其他东西。你也可以在星号或是减号中间插入空格。下面每种写法都可以建立分隔线：&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;* * *
+
+***
+
+*****
+
+- - -
+
+---------------------------------------
+&lt;/code&gt;&lt;/pre&gt;&lt;h3 id=&#34;锚点与链接-links&#34;&gt;锚点与链接 Links&lt;/h3&gt;
+&lt;pre&gt;&lt;code&gt;[普通链接](https://www.bing.com/)
+[普通链接带标题](https://www.bing.com/ &amp;quot;普通链接带标题&amp;quot;)
+直接链接：&amp;lt;https://www.bing.com&amp;gt;
+[锚点链接][anchor-id]
+[anchor-id]: https://www.mdeditor.com/
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;&lt;a href=&#34;https://www.bing.com/&#34;&gt;普通链接&lt;/a&gt;
+&lt;a href=&#34;https://www.bing.com/&#34; title=&#34;普通链接带标题&#34;&gt;普通链接带标题&lt;/a&gt;
+直接链接：&lt;a href=&#34;https://www.bing.com&#34;&gt;https://www.bing.com&lt;/a&gt;
+[锚点链接][anchor-id]
+[anchor-id]: &lt;a href=&#34;https://www.mdeditor.com/&#34;&gt;https://www.mdeditor.com/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;邮箱链接 [mailto:test.test@gmail.com](mailto:test.test@gmail.com)&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;mailto:test.test@gmail.com&#34;&gt;mailto:test.test@gmail.com&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;多语言代码高亮-codes&#34;&gt;多语言代码高亮 Codes&lt;/h3&gt;
+&lt;h4 id=&#34;行内代码-inline-code&#34;&gt;行内代码 Inline code&lt;/h4&gt;
+&lt;pre&gt;&lt;code&gt;执行命令：`npm install marked`
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;执行命令：&lt;code&gt;npm install marked&lt;/code&gt;&lt;/p&gt;
+&lt;h4 id=&#34;缩进风格&#34;&gt;缩进风格&lt;/h4&gt;
+&lt;p&gt;即缩进四个空格，也做为实现类似 &lt;code&gt;&amp;lt;pre&amp;gt;&lt;/code&gt; 预格式化文本 ( Preformatted Text ) 的功能。&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;&amp;lt;?php
+    echo &amp;quot;Hello world!&amp;quot;;
+?&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;预格式化文本：&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h4 id=&#34;js代码&#34;&gt;JS代码&lt;/h4&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-javascript&#34; data-lang=&#34;javascript&#34;&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;function&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;test&lt;/span&gt;() {
+	&lt;span style=&#34;color:#a6e22e&#34;&gt;console&lt;/span&gt;.&lt;span style=&#34;color:#a6e22e&#34;&gt;log&lt;/span&gt;(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Hello world!&amp;#34;&lt;/span&gt;);
+}
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h4 id=&#34;html-代码-html-codes&#34;&gt;HTML 代码 HTML codes&lt;/h4&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-html&#34; data-lang=&#34;html&#34;&gt;&lt;span style=&#34;color:#75715e&#34;&gt;&amp;lt;!DOCTYPE html&amp;gt;&lt;/span&gt;
+&amp;lt;&lt;span style=&#34;color:#f92672&#34;&gt;html&lt;/span&gt;&amp;gt;
+    &amp;lt;&lt;span style=&#34;color:#f92672&#34;&gt;head&lt;/span&gt;&amp;gt;
+        &amp;lt;&lt;span style=&#34;color:#f92672&#34;&gt;mate&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;charest&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;utf-8&amp;#34;&lt;/span&gt; /&amp;gt;
+        &amp;lt;&lt;span style=&#34;color:#f92672&#34;&gt;meta&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;name&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;keywords&amp;#34;&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;content&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Editor.md, Markdown, Editor&amp;#34;&lt;/span&gt; /&amp;gt;
+        &amp;lt;&lt;span style=&#34;color:#f92672&#34;&gt;title&lt;/span&gt;&amp;gt;Hello world!&amp;lt;/&lt;span style=&#34;color:#f92672&#34;&gt;title&lt;/span&gt;&amp;gt;
+        &amp;lt;&lt;span style=&#34;color:#f92672&#34;&gt;style&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;type&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;text/css&amp;#34;&lt;/span&gt;&amp;gt;
+            &lt;span style=&#34;color:#f92672&#34;&gt;body&lt;/span&gt;{&lt;span style=&#34;color:#66d9ef&#34;&gt;font-size&lt;/span&gt;:&lt;span style=&#34;color:#ae81ff&#34;&gt;14&lt;/span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;px&lt;/span&gt;;&lt;span style=&#34;color:#66d9ef&#34;&gt;color&lt;/span&gt;:&lt;span style=&#34;color:#ae81ff&#34;&gt;#444&lt;/span&gt;;&lt;span style=&#34;color:#66d9ef&#34;&gt;font-family&lt;/span&gt;: &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Microsoft Yahei&amp;#34;&lt;/span&gt;, Tahoma, &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Hiragino Sans GB&amp;#34;&lt;/span&gt;, Arial;&lt;span style=&#34;color:#66d9ef&#34;&gt;background&lt;/span&gt;:&lt;span style=&#34;color:#ae81ff&#34;&gt;#fff&lt;/span&gt;;}
+            &lt;span style=&#34;color:#f92672&#34;&gt;ul&lt;/span&gt;{&lt;span style=&#34;color:#66d9ef&#34;&gt;list-style&lt;/span&gt;: &lt;span style=&#34;color:#66d9ef&#34;&gt;none&lt;/span&gt;;}
+            &lt;span style=&#34;color:#f92672&#34;&gt;img&lt;/span&gt;{&lt;span style=&#34;color:#66d9ef&#34;&gt;border&lt;/span&gt;:&lt;span style=&#34;color:#66d9ef&#34;&gt;none&lt;/span&gt;;&lt;span style=&#34;color:#66d9ef&#34;&gt;vertical-align&lt;/span&gt;: &lt;span style=&#34;color:#66d9ef&#34;&gt;middle&lt;/span&gt;;}
+        &amp;lt;/&lt;span style=&#34;color:#f92672&#34;&gt;style&lt;/span&gt;&amp;gt;
+    &amp;lt;/&lt;span style=&#34;color:#f92672&#34;&gt;head&lt;/span&gt;&amp;gt;
+    &amp;lt;&lt;span style=&#34;color:#f92672&#34;&gt;body&lt;/span&gt;&amp;gt;
+        &amp;lt;&lt;span style=&#34;color:#f92672&#34;&gt;h1&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;class&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;text-xxl&amp;#34;&lt;/span&gt;&amp;gt;Hello world!&amp;lt;/&lt;span style=&#34;color:#f92672&#34;&gt;h1&lt;/span&gt;&amp;gt;
+        &amp;lt;&lt;span style=&#34;color:#f92672&#34;&gt;p&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;class&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;text-green&amp;#34;&lt;/span&gt;&amp;gt;Plain text&amp;lt;/&lt;span style=&#34;color:#f92672&#34;&gt;p&lt;/span&gt;&amp;gt;
+    &amp;lt;/&lt;span style=&#34;color:#f92672&#34;&gt;body&lt;/span&gt;&amp;gt;
+&amp;lt;/&lt;span style=&#34;color:#f92672&#34;&gt;html&lt;/span&gt;&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h3 id=&#34;图片-images&#34;&gt;图片 Images&lt;/h3&gt;
+&lt;p&gt;图片加链接 (Image + Link)：&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;[![](https://www.srilankatravelhost.com/wp-content/uploads/2017/11/sri-lanka-travel-host-sigiriya-day-tour.jpg)]
+(https://www.srilankatravelhost.com/wp-content/uploads/2017/11/sri-lanka-travel-host-sigiriya-day-tour.jpg &amp;quot;title&amp;quot;)
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;&lt;a href=&#34;https://www.srilankatravelhost.com/wp-content/uploads/2017/11/sri-lanka-travel-host-sigiriya-day-tour.jpg&#34; title=&#34;title&#34;&gt;&lt;img src=&#34;https://www.srilankatravelhost.com/wp-content/uploads/2017/11/sri-lanka-travel-host-sigiriya-day-tour.jpg&#34; alt=&#34;&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Follow your heart.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;列表-lists&#34;&gt;列表 Lists&lt;/h3&gt;
+&lt;pre&gt;&lt;code&gt;#### 无序列表 Unordered Lists
+无序列表使用星号、加号或是减号作为列表标记
+- 列表一
+- 列表二
+- 列表三
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h4 id=&#34;无序列表减号unordered-lists--&#34;&gt;无序列表（减号）Unordered Lists (-)&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;列表一&lt;/li&gt;
+&lt;li&gt;列表二&lt;/li&gt;
+&lt;li&gt;列表三&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;无序列表加号和嵌套unordered-lists-&#34;&gt;无序列表（加号和嵌套）Unordered Lists (+)&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;列表一&lt;/li&gt;
+&lt;li&gt;列表二
+&lt;ul&gt;
+&lt;li&gt;列表二-1&lt;/li&gt;
+&lt;li&gt;列表二-2&lt;/li&gt;
+&lt;li&gt;列表二-3&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;列表三
+&lt;ul&gt;
+&lt;li&gt;列表一&lt;/li&gt;
+&lt;li&gt;列表二&lt;/li&gt;
+&lt;li&gt;列表三&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;pre&gt;&lt;code&gt;#### 有序列表 Ordered Lists 
+有序列表则使用数字接着一个英文句点
+
+1. 第一行
+2. 第二行
+3. 第三行
+&lt;/code&gt;&lt;/pre&gt;&lt;h4 id=&#34;有序列表-ordered-lists&#34;&gt;有序列表 Ordered Lists&lt;/h4&gt;
+&lt;ol&gt;
+&lt;li&gt;第一行&lt;/li&gt;
+&lt;li&gt;第二行&lt;/li&gt;
+&lt;li&gt;第三行&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h4 id=&#34;gfm-task-list&#34;&gt;GFM task list&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt;GFM task list 1&lt;/li&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt;GFM task list 2&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt;GFM task list 3
+&lt;ul&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt;GFM task list 3-1&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt;GFM task list 3-2&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt;GFM task list 3-3&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt;GFM task list 4
+&lt;ul&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt;GFM task list 4-1&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt;GFM task list 4-2&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;绘制表格-tables&#34;&gt;绘制表格 Tables&lt;/h3&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;项目&lt;/th&gt;
+&lt;th align=&#34;right&#34;&gt;价格&lt;/th&gt;
+&lt;th align=&#34;center&#34;&gt;数量&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;计算机&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;$1600&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;5&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;手机&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;$12&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;12&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;管线&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;$1&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;234&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;pre&gt;&lt;code&gt;First Header  | Second Header
+------------- | -------------
+Content Cell  | Content Cell
+Content Cell  | Content Cel
+&lt;/code&gt;&lt;/pre&gt;&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;First Header&lt;/th&gt;
+&lt;th&gt;Second Header&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Content Cell&lt;/td&gt;
+&lt;td&gt;Content Cell&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Content Cell&lt;/td&gt;
+&lt;td&gt;Content Cell&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;pre&gt;&lt;code&gt;| Left-Aligned  | Center Aligned  | Right Aligned |
+| :------------ |:---------------:| -----:|
+| col 3 is      | some wordy text | $1600 |
+| col 2 is      | centered        |   $12 |
+| zebra stripes | are neat        |    $1 |
+&lt;/code&gt;&lt;/pre&gt;&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&#34;left&#34;&gt;Left-Aligned&lt;/th&gt;
+&lt;th align=&#34;center&#34;&gt;Center Aligned&lt;/th&gt;
+&lt;th align=&#34;right&#34;&gt;Right Aligned&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;col 3 is&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;some wordy text&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;$1600&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;col 2 is&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;centered&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;$12&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;zebra stripes&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;are neat&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;$1&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;h4 id=&#34;特殊符号-html-entities-codes&#34;&gt;特殊符号 HTML Entities Codes&lt;/h4&gt;
+&lt;p&gt;© &amp;amp;  ¨ ™ ¡ £
+&amp;amp; &amp;lt; &amp;gt; ¥ € ® ± ¶ § ¦ ¯ « ·&lt;/p&gt;
+&lt;p&gt;X² Y³ ¾ ¼  ×  ÷   »&lt;/p&gt;
+&lt;p&gt;18ºC  &amp;quot;  &#39;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;emoji表情-&#34;&gt;Emoji表情 😃&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Blockquotes ⭐&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h4 id=&#34;反斜杠-escape&#34;&gt;反斜杠 Escape&lt;/h4&gt;
+&lt;p&gt;Markdown 可以利用反斜杠来插入一些在语法中有其它意义的符号，例如：如果你想要用星号加在文字旁边的方式来做出强调效果（但不用 &lt;!-- raw HTML omitted --&gt; 标签），你可以在星号的前面加上反斜杠.&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;\*literal asterisks\*
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;*literal asterisks*&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;Markdown 支持以下这些符号前面加上反斜杠来帮助插入普通的符号：
+\   反斜线
+`   反引号
+*   星号
+_   底线
+{}  花括号
+[]  方括号
+()  括弧
+#   井字号
++   加号
+-   减号
+.   英文句点
+!   惊叹号
+&lt;/code&gt;&lt;/pre&gt;&lt;hr&gt;
+&lt;p&gt;参考引用&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.appinn.com/markdown/index.html&#34;&gt;Markdown 语法说明 (简体中文版)&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://daringfireball.net/projects/markdown/syntax&#34;&gt;Markdown 作者: Syntax&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.markdownguide.org/cheat-sheet/&#34;&gt;Markdown 基本语法&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.mdeditor.com/&#34;&gt;mdeditor在线编辑&lt;/a&gt;&lt;/p&gt;
 </description>
       
     </item>
@@ -258,6 +541,18 @@ f(x) \sim x^2 \quad (x\to\infty)
 f(x) = \sqrt{1+x}, \quad x \ge -1
 f(x) \sim x^2, \quad x\to\infty
 \]&lt;/span&gt;&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Jane 主题预览</title>
+      <link>https://j0ven.github.io/post/jane-theme-preview/</link>
+      <pubDate>Tue, 06 Mar 2018 16:01:23 +0800</pubDate>
+      
+      <guid>https://j0ven.github.io/post/jane-theme-preview/</guid>
+      
+        <description>&lt;p&gt;主题预览,内容有待填充。&lt;/p&gt;
+</description>
       
     </item>
     

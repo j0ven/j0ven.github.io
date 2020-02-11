@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>markdown on 心闻 —— 个人博客</title>
+    <title>markdown on 阿闻 —— 个人博客</title>
     <link>https://j0ven.github.io/tags/markdown/</link>
-    <description>Recent content in markdown on 心闻 —— 个人博客</description>
+    <description>Recent content in markdown on 阿闻 —— 个人博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 09 Feb 2020 18:32:59 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 10 Feb 2020 22:09:03 +0800</lastBuildDate>
     
 	<atom:link href="https://j0ven.github.io/tags/markdown/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Welcome</title>
-      <link>https://j0ven.github.io/welcome/</link>
-      <pubDate>Sun, 09 Feb 2020 18:32:59 +0800</pubDate>
+      <title>Markdown 使用</title>
+      <link>https://j0ven.github.io/post/start-markdown/</link>
+      <pubDate>Mon, 10 Feb 2020 22:09:03 +0800</pubDate>
       
-      <guid>https://j0ven.github.io/welcome/</guid>
-      <description>这是使用Hugo创建的站点中的第一篇文章。</description>
+      <guid>https://j0ven.github.io/post/start-markdown/</guid>
+      <description>欢迎点开 Markdown 简明学习记录 Markdown是一种轻量级的「标记语言」 Markdown 的目标是实现「易读易写」。 可读性，无论如何，都是最重要的。一份使用 Markdown 格式撰</description>
     </item>
     
     <item>

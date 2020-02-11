@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>shortcodes on 心闻 —— 个人博客</title>
+    <title>shortcodes on 阿闻 —— 个人博客</title>
     <link>https://j0ven.github.io/categories/shortcodes/</link>
-    <description>Recent content in shortcodes on 心闻 —— 个人博客</description>
+    <description>Recent content in shortcodes on 阿闻 —— 个人博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <lastBuildDate>Tue, 06 Mar 2018 16:01:23 +0800</lastBuildDate>
@@ -54,13 +54,7 @@
       <pubDate>Sat, 03 Mar 2018 16:01:23 +0800</pubDate>
       
       <guid>https://j0ven.github.io/post/shortcode-notice/</guid>
-      <description>normal use Note example:
-{{% notice note %}}A notice disclaimer{{% /notice %}}Result:
- note A notice disclaimer
-You could custom title :
-{{% notice note 笔记 %}}A notice disclaimer{{% /notice %}} 笔记 A notice disclaimer
-tip {{% notice tip %}}A tip disclaimer{{% /tip %}} tip A tip disclaimer
-info {{% notice info %}}A info disclaimer{{% /notice %}} info An information disclaimer</description>
+      <description>normal use Note example: {{% notice note %}} A notice disclaimer {{% /notice %}} Result: note A notice disclaimer You could custom title : {{% notice note 笔记 %}} A notice disclaimer {{% /notice %}} 笔记 A notice disclaimer tip {{% notice tip %}} A tip disclaimer {{% /tip %}} tip A tip disclaimer info {{% notice info %}} A info disclaimer {{% /notice %}} info An information</description>
     </item>
     
   </channel>
