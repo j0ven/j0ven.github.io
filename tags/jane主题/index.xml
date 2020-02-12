@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jane主题 on 阿闻 —— 个人博客</title>
+    <link>https://j0ven.github.io/tags/jane%E4%B8%BB%E9%A2%98/</link>
+    <description>Recent content in Jane主题 on 阿闻 —— 个人博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Wed, 12 Feb 2020 23:14:37 +0800</lastBuildDate>
+    
+	<atom:link href="https://j0ven.github.io/tags/jane%E4%B8%BB%E9%A2%98/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Jane主题的一些用户</title>
+      <link>https://j0ven.github.io/post/jane-user-links/</link>
+      <pubDate>Wed, 12 Feb 2020 23:14:37 +0800</pubDate>
+      
+      <guid>https://j0ven.github.io/post/jane-user-links/</guid>
+      <description>这里记录一些Jane主题的用户方便自己以后访问学习. Duy Do - Personal blog on computer science and maths in English and Vietnamese by @duydo Notes on Blue Skies - Personal blog in Russian by @paskal 贤民的比特记忆 - A Chinese blog. TeaTech - Gopher @yangwenmai. AxdLog -</description>
+    </item>
+    
+  </channel>
+</rss>

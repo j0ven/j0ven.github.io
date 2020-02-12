@@ -6,7 +6,7 @@
     <description>Recent content on 阿闻 —— 个人博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 10 Feb 2020 22:09:03 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 12 Feb 2020 23:14:37 +0800</lastBuildDate>
     
         <atom:link href="https://j0ven.github.io/index.xml" rel="self" type="application/rss+xml" />
     
@@ -25,7 +25,38 @@
 &lt;p&gt;前端语言:JavaScript HTML CSS&lt;/p&gt;
 &lt;p&gt;常用的后端语言: C#&lt;/p&gt;
 &lt;p&gt;爱好阅读,如果您阅读好的书籍,经典书籍,请推荐,谢谢!&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;mailto:zhouwen1001@foxmail.com&#34;&gt;mailto:zhouwen1001@foxmail.com&lt;/a&gt;&lt;/p&gt;
+</description>
+      
+    </item>
+    
+    <item>
+      <title>Jane主题的一些用户</title>
+      <link>https://j0ven.github.io/post/jane-user-links/</link>
+      <pubDate>Wed, 12 Feb 2020 23:14:37 +0800</pubDate>
+      
+      <guid>https://j0ven.github.io/post/jane-user-links/</guid>
+      
+        <description>&lt;p&gt;这里记录一些Jane主题的用户方便自己以后访问学习.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://duydo.me&#34;&gt;Duy Do&lt;/a&gt; - Personal blog on computer science and maths in English and Vietnamese by &lt;a href=&#34;https://github.com/duydo&#34;&gt;@duydo&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://terrty.net&#34;&gt;Notes on Blue Skies&lt;/a&gt; - Personal blog in Russian by @paskal&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.xianmin.org/&#34;&gt;贤民的比特记忆&lt;/a&gt; - A Chinese blog.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://maiyang.me/&#34;&gt;TeaTech&lt;/a&gt; - Gopher @yangwenmai.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://axdlog.com&#34;&gt;AxdLog&lt;/a&gt; - Personal blog in English and traditional Chinese by @MaxdSre&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://ifttl.com/&#34;&gt;Time&lt;/a&gt; - Personal Blog&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://itlaws.cn/&#34;&gt;IT &amp;amp; Laws&lt;/a&gt; - itLaws，一个律师的关于IT、法律的博客&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://kqh.ac/&#34;&gt;赫赫文王&lt;/a&gt; - 不务正业的历史系学生一个&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://william-yeh.net/&#34;&gt;Potioneer&amp;rsquo;s Essays&lt;/a&gt; - Personal blog on software development in traditional Chinese by @William-Yeh&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://shaoxia.xyz/&#34;&gt;联盟少侠博客&lt;/a&gt; - 一个日记博客.Simple Blog, Simple Days。&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.hexin.me/&#34;&gt;贺鑫杂技&lt;/a&gt; -  Personal Blog @Maczam&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://blog.fallleaf.net&#34;&gt;Thinking,Writing And Waiting&lt;/a&gt; - A personal blog about telecom, life and guitar&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.wingsxdu.com/&#34;&gt;beihai&lt;/a&gt; -  Gopher @beihai,机械专业的 IT 学生&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Theme - Even主题由olOwOlo等移植hexo-theme-even用户&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://blog.olowolo.com/&#34;&gt;olOwOlo&lt;/a&gt; Even主题移植发起者&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.ahonn.me/&#34;&gt;Ahonn&lt;/a&gt; hexo-theme-even 发起者&lt;/li&gt;
+&lt;/ul&gt;
 </description>
       
     </item>
@@ -198,7 +229,16 @@
 &lt;li&gt;第三行&lt;/li&gt;
 &lt;/ol&gt;
 &lt;h4 id=&#34;gfm-task-list&#34;&gt;GFM task list&lt;/h4&gt;
-&lt;ul&gt;
+&lt;pre&gt;&lt;code&gt;- [x] GFM task list 1
+- [x] GFM task list 2
+- [ ] GFM task list 3
+    - [ ] GFM task list 3-1
+    - [ ] GFM task list 3-2
+    - [ ] GFM task list 3-3
+- [ ] GFM task list 4
+    - [ ] GFM task list 4-1
+    - [ ] GFM task list 4-2
+&lt;/code&gt;&lt;/pre&gt;&lt;ul&gt;
 &lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt;GFM task list 1&lt;/li&gt;
 &lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt;GFM task list 2&lt;/li&gt;
 &lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt;GFM task list 3
